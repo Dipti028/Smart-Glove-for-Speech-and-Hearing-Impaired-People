@@ -23,13 +23,20 @@ The hand glove is equipped with flex sensors, a pulse sensor and an acceleromete
 - Arduino IDE 
 
 ## Circuit Diagram:
-![Circuit diagram](https://user-images.githubusercontent.com/69421390/235313250-4bd96720-4e19-4587-b640-a378a79fd3c7.png)
+<img src="https://user-images.githubusercontent.com/69421390/235313250-4bd96720-4e19-4587-b640-a378a79fd3c7.png" width=550 height=450>
 
 ## Result:
 
-<src="https://user-images.githubusercontent.com/69421390/235313322-4812c710-679b-4f8a-bf37-e033ab8c2086.png">
-![Hand Gesture 2](https://user-images.githubusercontent.com/69421390/235313330-3688971f-07f6-42ad-8997-e734361ae27c.png)
-![Hand Gesture 3](https://user-images.githubusercontent.com/69421390/235313337-5cc74601-75f1-4c7c-a47d-4fdd85b1526f.png)
-![Monitoring Pulse Rate](https://user-images.githubusercontent.com/69421390/235313343-76f86d22-2757-4fd1-a3be-342d1a8ad4f2.png)
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/69421390/235313322-4812c710-679b-4f8a-bf37-e033ab8c2086.png" width=200 height=350 />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/69421390/235313337-5cc74601-75f1-4c7c-a47d-4fdd85b1526f.png" width=200 height=350 />
+</p>
 
-![Monitoring Pulse Rate](https://user-images.githubusercontent.com/69421390/235313295-f6fddb3b-c4e7-4edc-a907-8d64f59046bf.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<p float="left">
+<img src="https://user-images.githubusercontent.com/69421390/235313330-3688971f-07f6-42ad-8997-e734361ae27c.png" width=200 height=400 />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/69421390/235313343-76f86d22-2757-4fd1-a3be-342d1a8ad4f2.png" width=200 height=415 />
+</p>
