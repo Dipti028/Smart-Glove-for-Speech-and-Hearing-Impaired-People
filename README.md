@@ -40,3 +40,9 @@ The hand glove is equipped with flex sensors, a pulse sensor and an acceleromete
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/69421390/235313343-76f86d22-2757-4fd1-a3be-342d1a8ad4f2.png" width=200 height=415 />
 </p>
+
+
+## Project Team:
+- Dipti Nagvekar
+- Ritu Patel
+- Nehal Mistry
